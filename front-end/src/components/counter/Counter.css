@@ -1,0 +1,27 @@
+.count {
+   font-size: 100px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: rgb(59, 26, 8);
+}
+
+.counterButton {
+   width: 100px;
+   background-color: rgb(17, 52, 89);
+   color: #fff;
+   border-radius: 30px;
+   font-size: 30px;
+   border-color: black;
+   border-width: 3px;
+   padding: 10px;
+   margin: 10px;
+}
+
+.resetButton {
+   background-color: rgb(217, 155, 41);
+   padding: 20px;
+   margin: 10px;
+   border-radius: 30px;
+   font-size: 30px;
+   border-color: black;
+   border-width: 3px;
+}

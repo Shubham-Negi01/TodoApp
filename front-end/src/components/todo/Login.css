@@ -1,0 +1,22 @@
+.login {
+   font-size: 30px;
+}
+
+.loginForm div{
+   padding: 5px;
+   margin: 5px;
+}
+
+input {
+   padding: 10px;
+   margin: 10px;
+}
+
+#submit{
+   background-color: rgb(39, 193, 22);
+   color: whitesmoke;
+   padding: 10px;
+   border-radius: 5px;
+   border-color: rgb(39, 193, 22);
+   font-size: 20px;
+}

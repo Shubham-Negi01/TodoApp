@@ -1,0 +1,10 @@
+
+export default function Logout() {
+
+   return (
+      <div>
+         <h2>You have been logged out!!!</h2>
+         <p>Have a great fay :)</p>
+      </div>
+   );
+}
